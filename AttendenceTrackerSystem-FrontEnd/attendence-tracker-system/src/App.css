@@ -1,0 +1,85 @@
+#headerlogo {
+  height: 50px;
+  width: 150px;
+  cursor: pointer;
+}
+
+#headerdropdown {
+  height: 27px;
+  width: 27px;
+}
+
+
+.register {
+  background-image: url("../src/Images/02.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 760px;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  
+  border-color: black !important;
+}
+
+.logoimage{
+  height:100px;
+  width: 330px;
+}
+
+.forgotpara{
+  color: rgb(217, 240, 224);
+  cursor: pointer;
+}
+.forgotpara:hover{
+  color: rgb(105, 105, 235);
+}
+
+.forgotpara:link {
+  color: whitesmoke;
+} 
+
+.reqpara{
+  color: whitesmoke;
+}
+
+.modal .modal-dialog {
+  width:52rem;
+}
+
+
+nav{
+  background-color: #0045ad;
+}
+
+.upgradebtn{
+  background-color: #33cc66;
+}
+
+.gridcards{
+  background-color: #1c242e;
+}
+
+footer{
+  background-color: #191e28;
+  color: aliceblue;
+}
+
+.indiapng{
+  height: 100px;
+  margin-top: 20px;
+}
+
+.logoimg{
+  height:45px;
+  width: 200px;
+}
+
+.attandancediv{
+  background-color:#bde4f7;
+}
+
+.threecard{
+  background-color: #d1d3d4;
+}
